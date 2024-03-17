@@ -89,6 +89,55 @@ public static void main(String[] args) {
 //		System.out.println(a[i]);
 //	}
 	
+	// manipulation program in  String 
+	
+//	String str="welcomeTo@Java123";
+//	
+//	int c=0,s=0,d=0,spl=0;
+//	
+//	for(int i=0;i<str.length();i++) {
+//		char ch=str.charAt(i);
+//		if(ch>=97 && ch<=122) {
+//			s++;
+//		}
+//		else if(ch>=65 && ch<90) {
+//			c++;
+//		}
+//		else if(ch>=48 && ch<57) {
+//			d++;
+//		}
+//		else {
+//			spl++;
+//		}
+//	}
+//	System.out.println("Capital letter: "+c);
+//	System.out.println("Small letter: "+s);
+//	System.out.println("Digit letter: "+d);
+//	System.out.println("SplCharacter letter: "+spl);
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	
 	
